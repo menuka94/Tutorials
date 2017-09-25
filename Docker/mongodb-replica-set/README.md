@@ -1,0 +1,1 @@
+## [How to deploy a MongoDB Replica Set using Docker - Towards Data Science - Medium](https://medium.com/towards-data-science/how-to-deploy-a-mongodb-replica-set-using-docker-6d0b9ac00e49)
