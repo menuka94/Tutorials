@@ -1,0 +1,15 @@
+Hi {{name}}
+
+{{#with address}}
+I live in {{street}}
+{{/with}}
+
+{{#each friends}}
+{{name}} is my friend.
+{{/each}}
+
+{{#if busy}}
+{{name}} is busy.
+{{else}}
+{{name}} is not busy.
+{{/if}}
